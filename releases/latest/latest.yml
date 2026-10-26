@@ -1,0 +1,8 @@
+version: 0.2.1
+files:
+  - url: Device-Manager-X-Setup-0.2.1.exe
+    sha512: 9Pu2R0BGGfBo8w9Eunh5x3rkEgvu4OVgSZaOhr/Xn6fdSM0vux7e1xlru0c4HBt+kUe490jNXdKyjsHLr/BvcQ==
+    size: 85069002
+path: Device-Manager-X-Setup-0.2.1.exe
+sha512: 9Pu2R0BGGfBo8w9Eunh5x3rkEgvu4OVgSZaOhr/Xn6fdSM0vux7e1xlru0c4HBt+kUe490jNXdKyjsHLr/BvcQ==
+releaseDate: '2026-10-26T01:51:40.000Z'
